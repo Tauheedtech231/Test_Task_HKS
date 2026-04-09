@@ -2,7 +2,7 @@ A simple Expense Tracker built with Next.js and Tailwind CSS that allows users t
 
 ## How to Run
 
-
+```bash
 git clone https://github.com/Tauheedtech231/Test_Task_HKS.git
 cd Test_Task_HKS
 npm install
